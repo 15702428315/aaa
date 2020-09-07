@@ -8,5 +8,6 @@ public class testaaa {
     public static void main(String[] args) {
         System.out.println("aaa");
         System.out.println("aaa-1");
+        System.out.println("aaa-1最终测试");
     }
 }
